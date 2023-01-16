@@ -1,3 +1,3 @@
 # TENNA: Tiny Embedded Neural Network Accelerator
 
-![](docs/img/logo.svg)
+![](docs/img/logo.png)
